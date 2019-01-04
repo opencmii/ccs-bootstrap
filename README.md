@@ -1,7 +1,8 @@
 ccs-bootstrap
 =============
 
-Projeto estilo "bootstrap" dos "Design" para o CodeCharge Studio 5.
+pt-br Projeto estilo "bootstrap" dos "Design" para o CodeCharge Studio 5.
 
-"Bootstrap" style design for CodeCharge Studio 5 projects.
+en "bootstrap" style design template for CodeCharge Studio 5.
 
+fr Gabarit de design "bootstrap" pour CodeCharge Studio 5.
